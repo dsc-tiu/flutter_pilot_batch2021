@@ -1,6 +1,13 @@
 # today_session
 
-A new Flutter project.
+A new Flutter session 
+
+## what we have learned
+1. What is Flutter and why Flutter
+2. What is Widget 
+3. Types of Widget
+4. Basic Arithmatic operations in Flutter 
+5. How to get input data and how to process with a simple if-else condition
 
 ## Getting Started
 
